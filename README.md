@@ -1,2 +1,1 @@
-# ipos.space
-website of ipos
+# kenos.io
